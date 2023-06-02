@@ -1,0 +1,33 @@
+body{
+    background-image: url(img/FondoCR.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+
+#outer{
+    position: absolute;
+  top: 1%;
+  left: 25%;
+  right: 5%;
+  margin: -25px 0 0 -25px;
+}
+
+
+
+#candidatos{
+    display: flex;
+    justify-content: center;
+    
+}
+#encuestas{
+    
+    display: flex;
+    justify-content: center;
+    
+}

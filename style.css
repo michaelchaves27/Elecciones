@@ -1,5 +1,6 @@
 body{
-    background-image: url(img/FondoCR.png);
+  
+    
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -30,4 +31,7 @@ h1{
     display: flex;
     justify-content: center;
     
+}
+#container{
+    margin-left: 20px;
 }
